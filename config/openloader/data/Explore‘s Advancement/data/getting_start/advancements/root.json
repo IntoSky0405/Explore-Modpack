@@ -1,0 +1,23 @@
+{
+    "display": {
+        "icon": {
+            "item": "minecraft:grass_block"
+        },
+        "title":{
+            "text": "探索"
+        },
+        "description": {
+            "text": "《探索》整合包的 进度系统"
+        },
+        "frame": "task",
+        "background": "minecraft:textures/block/light_blue_concrete.png",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "default": {
+            "trigger": "minecraft:tick"
+            }
+        }
+}
