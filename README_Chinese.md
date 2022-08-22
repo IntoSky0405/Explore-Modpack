@@ -1,4 +1,5 @@
 # Explore [ Fabric ]
+![https://github.com/IntoSky0405/Explore-Modpack/blob/main/Explore.png](Explore.png)
 [English README](https://github.com/IntoSky0405/Explore-Modpack/blob/main/README.md)
 ## 介绍
 这是一个冒险向的整合包，但并不简单。探索巨大地牢，升级自身武器，击败强大的怪物。击杀各种 BOSS，完成属于你的征程！
