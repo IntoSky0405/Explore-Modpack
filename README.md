@@ -1,4 +1,6 @@
 # Explore [ Fabric ]
+![https://github.com/IntoSky0405/Explore-Modpack/blob/main/Explore.png](Explore.png)
+
 [中文 README](https://github.com/IntoSky0405/Explore-Modpack/blob/main/README_Chinese.md)
 ## Introduce
 This is an adventure Modpack, a not so simple Modpack. explore the huge dungeons, upgrade your weapons and defeat the powerful monsters. Kill all kinds of bosses and complete your journey!
